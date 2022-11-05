@@ -1,7 +1,8 @@
-# => SECOND HOME WORK:
+# - SECOND HOME WORK:
+### -- Writing Bash Scripts!
 
-- QUESTION 1:
--- a bash script that collects two numbers from the user and then prints a message  if these two numbers are smaller or greater than 100.
+- **QUESTION 1:**
+> > a bash script that collects two numbers from the user and then prints a message  if these two numbers are smaller or greater than 100.
 
 ```sh
 #!/bin/bash
@@ -26,8 +27,12 @@ if [[ $sum -gt  100 ]]
 
 > Note:  TO RUN THIS SCRIPT YOU SHOULD USE ./fileName.
 
-- QUESTION 2:
--- a bash script that reads a temperature in Fahrenheit and converts
+##### RUNNING EXAMPLE QUESTION 1:
+![Q1](file:///C:/Users/aml33/Desktop/DevOps/Screenshot%202022-11-05%20161412.png)
+
+
+- **QUESTION 2:**
+> > a bash script that reads a temperature in Fahrenheit and converts
 it to Celcius.
 
 ```sh
@@ -52,9 +57,11 @@ echo "Temprature In Celsius = $Tcel"
 > Note:  TO RUN THIS SCRIPT YOU SHOULD USE ./fileName.
 
 
+##### RUNNING EXAMPLE QUESTION 2:
+![Q2](file:///C:/Users/aml33/Desktop/DevOps/Screenshot%202022-11-05%20161748.png)
 
-- QUESTION 3:
--- a script that finds the largest 10 files in a directory.
+- **QUESTION 3:**
+> > a script that finds the largest 10 files in a directory.
 
 ```sh
 #! /usr/bin/bash
@@ -71,3 +78,6 @@ fi
 ```
 > Note:  TO RUN THIS SCRIPT YOU SHOULD USE ./fileName.
  
+
+##### RUNNING EXAMPLE QUESTION 2:
+![Q3](file:///C:/Users/aml33/Desktop/DevOps/Screenshot%202022-11-05%20161327.png "RUNNIN3")
